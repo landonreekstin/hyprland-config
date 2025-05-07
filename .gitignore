@@ -1,0 +1,12 @@
+# .gitignore for Hyprland configs
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Cache files (if any specific tools create them here)
+# .cache/
+
+# Socket files (Hyprland uses sockets but usually in /tmp or XDG_RUNTIME_DIR)
+# *.sock
